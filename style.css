@@ -1,0 +1,12 @@
+*{
+    
+}
+.navbar-inverse{
+    background-color: black;
+}
+.btn, .a{
+    background-color: rgb(18, 236, 109);
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+  
